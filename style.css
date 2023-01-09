@@ -1,0 +1,14 @@
+body .titulo {
+    color: rgb(3, 75, 6);
+    background-color: #2C8452;
+    width: 1275px;
+    height: 163px;
+    font-family: 'TT Ramilla';
+
+}
+
+body .imgCarol{
+    width: 1275px;
+    height: 163px;
+    backface-visibility: hidden;
+}
